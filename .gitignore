@@ -1,0 +1,23 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore NuGet package folders
+packages/
+
+# Ignore user-specific files
+*.user
+
+# Ignore Visual Studio files
+.vs/
+
+
+# Ignore .NET Core build artifacts
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+
+# Ignore Visual Studio Code files
+.vscode/
